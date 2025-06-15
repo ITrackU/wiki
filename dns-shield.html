@@ -1,0 +1,36 @@
+<!--
+title: Web Security
+description: How to protect yourself from malicious files, links, and adverts
+published: true
+date: 2024-05-15T13:43:15.276Z
+tags: 
+editor: ckeditor
+dateCreated: 2024-05-15T13:09:08.388Z
+-->
+
+<h1>AdGuard - DNS Blocking for Secure Browsing</h1>
+<p>What is AdGuard? AdGuard is an advanced DNS blocking tool designed to enhance your online browsing experience while strengthening your security.</p>
+<h2>Key Features:</h2>
+<p>Ad Blocking: AdGuard effectively blocks intrusive advertisements on websites, providing a smoother and faster browsing experience.</p>
+<p>Malware Protection: With its advanced filters, AdGuard protects your device from malware and attempts to infect it with unwanted programs.</p>
+<p>Phishing Detection: AdGuard identifies and blocks malicious websites attempting to steal your personal information, protecting you from phishing attacks.</p>
+<p>Advanced Customization: You can configure AdGuard according to your specific needs by blocking applications, websites, or types of unwanted content.</p>
+<h2>Why Choose AdGuard?</h2>
+<p>AdGuard offers comprehensive protection against online threats while giving you complete control over your browsing experience. By blocking ads, malware, and fraudulent websites, AdGuard ensures that you browse safely on the Internet without compromising your device's performance.</p>
+<h2>Setting Up AdGuard on Your PC:</h2>
+<p>&nbsp;To configure AdGuard on a PC using the DNS server IP address (AdGuard Bigacloud: 109.205.181.76), follow these steps:</p>
+<p>Access Network Settings: On your PC, open the network settings. You can usually do this by clicking on the network icon in the taskbar or accessing system settings.</p>
+<p>Modify Adapter Settings: In the network settings, look for options to modify adapter settings. This may be labeled as "Change adapter options" or "Configure adapter settings."</p>
+<p>Access Adapter Properties: Find the network adapter you are using (e.g., Wi-Fi or Ethernet) and right-click to access its properties.</p>
+<p>Configure DNS Server IP Address: In the adapter properties, locate the option to specify DNS servers. Select "Use the following DNS server addresses" and enter the DNS server IP address in the provided field. In this example, enter "109.205.181.76."</p>
+<p>Save Changes and Restart if Necessary: Once you have entered the DNS server IP address, save the changes by clicking "OK" or "Apply." You may need to restart your PC for the changes to take effect.</p>
+<p>Once these steps are completed, your PC will now use the specified DNS server (109.205.181.76 in this example), meaning all DNS traffic will be directed to this server. Ensure that the configured DNS server (AdGuard) is properly set up to function as intended.</p>
+<h2>Setting Up AdGuard on Your Box for the Whole Family:</h2>
+<p>To change the DNS server assigned by DHCP on a box, you need to access the box's configuration interface via a web browser. Here are the general steps to do this:</p>
+<p>Access the Box's Configuration Interface: Open a web browser on a device connected to the same network as the box. Enter the box's IP address in the browser's address bar. This IP address is usually indicated in the box's manual or can be found using the <code><strong>ipconfig</strong></code> command on Windows or <code><strong>ifconfig</strong></code> on Linux or macOS, looking for the address indicated as "gateway" or "router" (typically 192.168.1.1 or 192.168.0.1 by default).</p>
+<p>Log in to the Configuration Interface: You will usually be prompted to log in with a username and password. This information is often provided in the box's manual or is default (e.g., "admin" for the username and "admin" for the password).</p>
+<p>Find DHCP Settings: Once logged in to the configuration interface, look for DHCP settings. This may be labeled as "Network," "LAN," "DHCP Settings," or something similar, depending on the box's manufacturer.</p>
+<p>Modify DNS Settings: In the DHCP settings, look for the option to specify DNS servers. It may be labeled as "DNS Servers," "Primary DNS," or similar. You may need to disable the "Obtain DNS server addresses automatically" or "Use DNS servers provided by ISP" option to manually enter the DNS server addresses.</p>
+<p>Enter DNS Server Addresses: Once you have found the option to specify DNS servers, enter the IP addresses of the DNS servers you want to use. In this example, enter the IP address of the AdGuard DNS server: 109.205.181.76.</p>
+<p>Save Changes: After entering the DNS server addresses, save the changes by clicking "Save," "Apply," or a similar option. The box will eventually restart for the changes to take effect.</p>
+<p>Once these steps are completed, the box will now assign the DNS servers specified by DHCP to all devices connected to the network, including your PC, meaning all DNS traffic will be directed to these servers. Ensure that the configured DNS server (AdGuard) is properly set up to function as intended.</p>
