@@ -1,13 +1,3 @@
----
-title: Cisco Routing
-description: Commands and Configuration CCNA 1,2,3 for Cisco Routers
-published: true
-date: 2025-04-16T12:55:37.848Z
-tags: router, routing, cisco, snmp, ntp, gre, tunnel, vpn, dynamic routing, static routing, bgp, rip, ospf
-editor: markdown
-dateCreated: 2025-04-16T12:07:21.555Z
----
-
 # Basic Router Configuration
 TasksCommandsHardware Name
 ```plaintext

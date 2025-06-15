@@ -1,13 +1,3 @@
----
-title: Cisco Switching Commands & Configurations
-description: Commands and Configuration leads to good network communications through a Cisco Switches network
-published: true
-date: 2025-04-16T12:14:14.037Z
-tags: cisco, ntp, switch, vlan, stp
-editor: markdown
-dateCreated: 2025-04-16T12:14:11.337Z
----
-
 # Basic Management Interface Configuration
 
 ## Task

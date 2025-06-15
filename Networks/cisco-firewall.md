@@ -1,14 +1,3 @@
----
-title: Cisco ASA Firewalls
-description: Configuration ASA Cisco Firewalls
-published: true
-date: 2025-04-16T12:29:12.768Z
-tags: cisco, asa, firewall
-editor: markdown
-dateCreated: 2025-04-16T12:29:08.257Z
----
-
-
 # Basic Interface Management Configuration
 
 ## Basic Configuration

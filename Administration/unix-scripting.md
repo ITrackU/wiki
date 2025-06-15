@@ -1,13 +1,3 @@
----
-title: Basic Scripting Commands
-description: Basic Commands you need to know to begin bash scripting
-published: true
-date: 2025-04-16T12:54:10.875Z
-tags: bash, script
-editor: markdown
-dateCreated: 2025-04-16T12:54:08.072Z
----
-
 # Basic Unix Script Commands
 
 ## Introduction

@@ -1,13 +1,3 @@
----
-title: Git
-description: Basics and advanced configurations for using Git
-published: true
-date: 2025-04-17T15:24:48.218Z
-tags: git
-editor: markdown
-dateCreated: 2025-04-17T15:24:43.338Z
----
-
 ## Table of Contents
 1. [Introduction](#introduction)
 2. [Basic Configuration](#basic-configuration)

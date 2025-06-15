@@ -1,13 +1,3 @@
----
-title: Unix Cryptography Commands
-description: Basics Commands for crypting data, storage, volumes with UNIX
-published: true
-date: 2025-04-16T13:05:40.245Z
-tags: cryptography, linux
-editor: markdown
-dateCreated: 2025-04-16T13:05:37.590Z
----
-
 # Basics of Cryptography
 
 Cryptography is a fundamental element of computer security, allowing data protection by transforming it to make it unreadable for any unauthorized person. Here is an overview of key concepts and commonly used encryption algorithms.

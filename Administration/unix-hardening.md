@@ -1,13 +1,3 @@
----
-title: Unix Hardening
-description: Configurations and Commands to make your linux more secure
-published: true
-date: 2025-04-17T08:17:59.533Z
-tags: security, linux, unix, rhel, ubuntu, debian
-editor: markdown
-dateCreated: 2025-04-17T08:17:55.455Z
----
-
 # Linux Security Hardening Guide
 
 This comprehensive guide covers best practices and configurations for hardening Linux systems against security threats and vulnerabilities.

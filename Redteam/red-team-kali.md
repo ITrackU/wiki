@@ -1,13 +1,3 @@
----
-title: Kali Linux
-description: Installation of the most used os for Pentesting
-published: true
-date: 2025-04-17T12:43:15.807Z
-tags: osint, kali, pentest
-editor: markdown
-dateCreated: 2025-04-17T12:43:13.424Z
----
-
 # 🐍 Kali Linux Installation and Secure Remote Access Guide
 
 ## 🧰 Prerequisites

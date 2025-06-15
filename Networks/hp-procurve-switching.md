@@ -1,13 +1,3 @@
----
-title: HP Procurve switching configurations commands
-description: Easy setup commands to configure the hp switches
-published: true
-date: 2025-04-17T08:09:47.608Z
-tags: switch, procurve, hp
-editor: markdown
-dateCreated: 2025-04-17T08:09:42.922Z
----
-
 # Basic Configuration of the Management Interface
 
 ## Task

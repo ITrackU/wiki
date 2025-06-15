@@ -1,13 +1,3 @@
----
-title: Ansible
-description: Foundational understanding of Ansible and its capabilities
-published: true
-date: 2025-04-17T15:30:04.515Z
-tags: ansible, automation, deployment
-editor: markdown
-dateCreated: 2025-04-17T15:30:01.708Z
----
-
 ## Table of Contents
 1. [Introduction to Ansible](#introduction-to-ansible)
 2. [Installation](#installation)

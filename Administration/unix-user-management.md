@@ -1,13 +1,3 @@
----
-title: Unix User Management
-description: Commands and knowledge about Unix Users management
-published: true
-date: 2025-04-16T14:54:05.062Z
-tags: bash, unix, users, shell, rights
-editor: markdown
-dateCreated: 2025-04-16T14:53:57.971Z
----
-
 # 🧑‍💻 Linux User Management Wiki
 
 ## 📚 Table of Contents

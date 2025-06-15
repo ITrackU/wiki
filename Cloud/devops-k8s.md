@@ -1,13 +1,3 @@
----
-title: Kubernetes
-description: Notes and understanding about kubernetes with examples
-published: true
-date: 2025-04-17T14:43:59.301Z
-tags: k8s, kubernetes, nginx
-editor: markdown
-dateCreated: 2025-04-17T14:43:07.426Z
----
-
 ## Table of Contents
 1. [Introduction](#introduction)
 2. [Architecture](#architecture)

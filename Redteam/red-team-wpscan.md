@@ -1,13 +1,3 @@
----
-title: WPScan tool, configuration & commands
-description: How to install, configure and launch a WordPress scan
-published: true
-date: 2025-04-17T09:18:00.036Z
-tags: wordpress, scan, redteam
-editor: markdown
-dateCreated: 2025-04-17T09:17:56.151Z
----
-
 # WPScan Documentation
 
 ## Overview
