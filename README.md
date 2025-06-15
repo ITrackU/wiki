@@ -1,80 +1,87 @@
 # 🏠 Home: WIKI Knowledge Base Index
 
-## Introduction :
+## Introduction
 
-As an IT professional working in company integration management, I develop app infrastructure using containers and NVIDIA CUDA for GPU acceleration. My expertise includes automation with Ansible and Kubernetes, along with ongoing education in cybersecurity through pentesting courses. Personally, I maintain a cloud-based web server hosting various applications like email management, password protection, file storage, and automated tasks, showcasing my hands-on experience with diverse technologies. My career goals involve transitioning into DevOps and cloud services roles, aiming to leverage my skills in infrastructure development and automation for innovative solutions.
+As an IT professional specializing in integration management, I focus on building containerized application infrastructure with GPU acceleration using NVIDIA CUDA. My expertise includes automation with Ansible and Kubernetes, paired with a strong interest in cybersecurity through continuous pentesting education.
 
-Welcome to your structured cybersecurity and networking wiki. Below is the categorized table of contents for all available documentation pages.
+I also maintain a self-hosted cloud server for personal services including email, password management, storage, and task automation—demonstrating my practical skills across various technologies. My career goals involve transitioning into DevOps and cloud engineering roles, leveraging infrastructure-as-code and automation for scalable, secure environments.
 
----
-
-## 🐧 Unix
-
-### 🔐 [Unix Hardening](en/unix-hardening)  
-Configurations and commands to make your Linux system more secure.  
-
-### 👥 [Unix User Management](en/unix-user-management)  
-Commands and knowledge about managing users and groups in Unix/Linux.  
-
-### 🔐 [Unix Cryptography](en/unix-crypto)  
-Basic commands for encrypting data, storage, and volumes on Unix.  
-
-### 📜 [Bash Scripting](en/unix-scripting)  
-Fundamentals of shell scripting for automation and system tasks.  
+Welcome to my structured cybersecurity, DevOps, and networking knowledge base. Below is a categorized table of contents based on the repository’s file structure.
 
 ---
 
-## 🧨 Red Team
+## 🐧 Unix Administration
 
-### 🐱 [Kali Linux](en/red-team-kali)  
-Installation and configuration of Kali Linux, the primary OS for pentesting.  
+> Practical Unix/Linux guides for hardening, scripting, user management, and data encryption.
 
-### 🔎 [OSINT](en/red-team-osint)  
-Most used tools guide, installation, configuration, and use for open-source intelligence.  
+- 🔐 [Unix Hardening](Administration/unix-hardening.md)  
+  Secure your Unix/Linux systems with best practices and hardening tips.
 
-### 🌐 [DNS Enumeration](en/red-team-dns)  
-Subdomain scraping and related DNS discovery techniques.  
+- 👥 [Unix User Management](Administration/unix-user-management.md)  
+  Manage users and groups efficiently using CLI tools.
 
-### 📡 [Nmap](en/red-team-nmap)  
-How to use Nmap effectively, command breakdowns, and script creation.  
+- 🔐 [Unix Cryptography](Administration/unix-crypto.md)  
+  Use built-in tools for encrypting files, drives, and data.
 
-### 🔍 [WPScan](en/red-team-wpscan)  
-Tool guide, configuration, and usage examples for WordPress scanning.  
-
----
-
-## ⚙️ DevOps
-
-
+- 📜 [Bash Scripting](Administration/unix-scripting.md)  
+  Automate tasks with shell scripting fundamentals.
 
 ---
 
-## 🌐 Network
+## ⚙️ Cloud & DevOps
 
-### 🌐 [Cisco Routing](en/cisco-routing)  
-Configuration and commands based on CCNA 1, 2, and 3 for Cisco routers.  
+> Tools and workflows for modern DevOps environments.
 
-### 💡 [Cisco Switching](en/cisco-switching)  
-Commands and configuration tips for setting up switching environments.  
+- 📦 [Ansible](Cloud/devops-ansible.md)  
+  Automate infrastructure and application deployment.
 
-### 🔥 [Cisco ASA Firewalls](en/cisco-firewall)  
-Basic and advanced configuration for Cisco ASA firewalls.  
+- 🌿 [Git for DevOps](Cloud/devops-git.md)  
+  Git essentials for DevOps engineers and CI/CD.
 
-### 🔌 [HP ProCurve Switching](en/hp-procurve-switching)  
-Easy setup and CLI commands for configuring HP ProCurve switches.  
+- ☸️ [Kubernetes (k8s)](Cloud/devops-k8s.md)  
+  Container orchestration with Kubernetes.
 
 ---
 
-## 📦 Miscellaneous Services
+## 🧨 Red Teaming
 
-### ☁️ [BigaWiki Cloud Overview](en/storage)  
-A French-dedicated open wiki cloud (BigaCloud project).  
+> Offensive security techniques and tools for penetration testing.
 
-### 🛡️ [Web Security Shield](en/dns-shield)  
-Guide to protecting against malicious websites, ads, and bad DNS.  
+- 🐱 [Kali Linux](Redteam/red-team-kali.md)  
+  Install, configure, and optimize Kali Linux.
 
-### 🔑 [Password Manager](en/pass)  
-How to install and use the CLI-based password manager securely.  
+- 🔍 [OSINT Tools](Redteam/red-team-osint.md)  
+  Open-source intelligence gathering for recon.
 
-### 📄 [Data User Policy](en/data-policy)  
-BigaCloud usage policies and terms of service.  
+- 🌐 [DNS Enumeration](Redteam/red-team-dns.md)  
+  Subdomain discovery and DNS tools.
+
+- 📡 [Nmap](Redteam/red-team-nmap.md)  
+  Effective network scanning and custom scripts.
+
+- 🔎 [WPScan](Redteam/red-team-wpscan.md)  
+  Audit WordPress installations with WPScan.
+
+---
+
+## 🌐 Networking
+
+> Networking concepts and configurations with enterprise-grade hardware.
+
+- 🌐 [Cisco Routing](Networks/cisco-routing.md)  
+  Learn routing protocols and configurations (CCNA-based).
+
+- 💡 [Cisco Switching](Networks/cisco-switching.md)  
+  Switch setup and troubleshooting tips.
+
+- 🔥 [Cisco ASA Firewall](Networks/cisco-firewall.md)  
+  Secure your perimeter with Cisco ASA configs.
+
+- 🔌 [HP ProCurve Switching](Networks/hp-procurve-switching.md)  
+  CLI commands and setup guide for HP ProCurve switches.
+
+---
+
+## 📄 License
+
+See [LICENSE](LICENSE) for repository usage rights.
