@@ -1,13 +1,3 @@
----
-title: Home
-description: My Wiki, professional Knowledge, and the personnal services I run myself
-published: true
-date: 2025-04-17T14:28:27.163Z
-tags: home
-editor: markdown
-dateCreated: 2025-04-17T13:07:33.971Z
----
-
 # 🏠 Home: WIKI Knowledge Base Index
 
 ## Introduction :
